@@ -1,3 +1,9 @@
-var  d =  new  Date();
-System.inform(d.getHours());     // display "hours"
-System.inform(d.getMinutes());   // display "minutes"
+var d =  new  Date();
+var year = d.getYear();         // assign year as initial value to year
+var month = d.getMonth() + 1;   // initial month as month
+var day = d.getDate();          // Assign the day value to day as the initial value
+var hour = d.getHours();        // Assign the hour value to hour as the initial value
+var minute = d.getMinutes ();    // Assign the minute value to minute as the initial value
+var second = d.getSeconds();    // Assign the second value to second as the initial value
+var message = "Tahun : " + year + "Bulan : " + month + day + "day" + hour + "hour" + minute + "minute" + second + "second";
+System.inform(message);
