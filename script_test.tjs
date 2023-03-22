@@ -7,3 +7,5 @@ var minute = d.getMinutes ();    // Assign the minute value to minute as the ini
 var second = d.getSeconds();    // Assign the second value to second as the initial value
 var message = "Tahun : " + year + "Bulan : " + month + day + "day" + hour + "hour" + minute + "minute" + second + "second";
 System.inform(message);
+
+//log untuk membuat format jam dengan menggunakan script tjs
