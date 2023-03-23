@@ -1,5 +1,7 @@
 https://adventuresjp.com/novel-game-tool-3
-https://tyrano.jp/
-http://tjs2.info/TJS0101.html
 
-test
+Tyrano JP : 
+https://tyrano.jp/
+
+TJS2 script for kiri kiri engine
+http://tjs2.info/TJS0101.html
